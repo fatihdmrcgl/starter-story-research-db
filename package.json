@@ -1,0 +1,25 @@
+{
+  "name": "starter-story-research-db",
+  "version": "0.1.0",
+  "description": "Research database for startup stories, business models, revenue signals, and monetization patterns.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "search": "node src/cli.js search",
+    "stats": "node src/cli.js stats",
+    "test": "node --test"
+  },
+  "keywords": [
+    "startup",
+    "business-model",
+    "research",
+    "database",
+    "starter-story"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
