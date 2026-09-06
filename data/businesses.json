@@ -1,0 +1,47 @@
+[
+  {
+    "id": "demo-ai-meeting-notes",
+    "name": "Demo AI Meeting Notes",
+    "category": "productivity",
+    "audience": "small teams",
+    "businessModel": "subscription",
+    "revenueSignal": "paid SaaS demo record",
+    "monthlyRevenueUsd": null,
+    "launchYear": 2025,
+    "acquisitionChannel": "content marketing",
+    "sourceUrl": "https://example.com/source/demo-ai-meeting-notes",
+    "evidenceLevel": "low",
+    "tags": ["ai", "b2b", "productivity"],
+    "notes": "Synthetic demo row. Replace with a sourced real company record."
+  },
+  {
+    "id": "demo-newsletter-analytics",
+    "name": "Demo Newsletter Analytics",
+    "category": "marketing",
+    "audience": "creators",
+    "businessModel": "freemium",
+    "revenueSignal": "public pricing page demo record",
+    "monthlyRevenueUsd": null,
+    "launchYear": 2024,
+    "acquisitionChannel": "newsletter partnerships",
+    "sourceUrl": "https://example.com/source/demo-newsletter-analytics",
+    "evidenceLevel": "low",
+    "tags": ["creator", "newsletter", "analytics"],
+    "notes": "Synthetic demo row. Use verified revenue only after source review."
+  },
+  {
+    "id": "demo-niche-crm",
+    "name": "Demo Niche CRM",
+    "category": "sales",
+    "audience": "local service businesses",
+    "businessModel": "vertical saas",
+    "revenueSignal": "customer testimonials demo record",
+    "monthlyRevenueUsd": null,
+    "launchYear": 2023,
+    "acquisitionChannel": "cold outreach",
+    "sourceUrl": "https://example.com/source/demo-niche-crm",
+    "evidenceLevel": "low",
+    "tags": ["crm", "vertical-saas", "local-services"],
+    "notes": "Synthetic demo row for filtering and API examples."
+  }
+]
